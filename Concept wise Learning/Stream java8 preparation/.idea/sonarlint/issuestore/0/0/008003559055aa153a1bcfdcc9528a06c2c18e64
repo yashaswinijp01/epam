@@ -1,0 +1,32 @@
+
+D
+java:S3740;"/Provide the parametrized type for this generic.(Î—€:
+V	java:S125"<This block of commented-out lines of code should be removed.(ä™ş°şÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(„íí
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Œõò
+q
+java:S2159-"VRemove this call to "equals"; comparisons between unrelated types always return false.(Ú®™çüÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(‡©Ôüÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ÿåöìıÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(ì³Ğ¶
+M	java:S106G"9Replace this use of System.out or System.err by a logger.(œ¬Œ-
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(™±†á
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(òáÏşÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ğĞƒùÿÿÿÿ
+<
+java:S2153U"!Remove the boxing to "Character".(Ä³¹ úÿÿÿÿ
+U
+java:S1612Z":Replace this lambda with method reference 'Entry::getKey'.(ŸëÖùÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(Ùñ‡ ÿÿÿÿÿ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(±‡âÈüÿÿÿÿ
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Jayesh" 3 times.(ú“íôşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ì›½ùÿÿÿÿ
+M
+java:S3655T"7Call "Optional#isPresent()" before accessing the value.(Šú¡«
+M
+java:S3655!"7Call "Optional#isPresent()" before accessing the value.(Óê²

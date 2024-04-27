@@ -1,0 +1,21 @@
+
+J
+java:S3740!"/Provide the parametrized type for this generic.(¾ÿ™ìüÿÿÿÿ
+J
+java:S3740)"/Provide the parametrized type for this generic.(¶–ˆ—ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÀÖ¿üÿÿÿÿ
+J
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÿñæÑ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–±û
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ø‰ß©
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–±û
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÔÂ‘
+M	java:S106""9Replace this use of System.out or System.err by a logger.(ÀÈéS
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(ÀÈéS
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆ‘ÆÀ
+_
+java:S1192"IDefine a constant instead of duplicating this literal " value: " 4 times.(–±û
+\
+java:S1192"FDefine a constant instead of duplicating this literal "key: " 4 times.(–±û
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ì›½ùÿÿÿÿ

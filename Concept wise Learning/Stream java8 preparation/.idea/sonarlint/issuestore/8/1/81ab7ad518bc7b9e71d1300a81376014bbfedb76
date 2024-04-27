@@ -1,0 +1,20 @@
+
+J
+java:S3740#"/Provide the parametrized type for this generic.(æÓß»üÿÿÿÿ
+J
+java:S3740#"/Provide the parametrized type for this generic.(æÓß»üÿÿÿÿ
+J
+java:S3740%"/Provide the parametrized type for this generic.(××‹ñùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ßŠÈØ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÅıå
+N	java:S106"9Replace this use of System.out or System.err by a logger.(˜˜
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·çÏÎ
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(‚ªç3
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ÅÂÌÜ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+t
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(î½€ûÿÿÿÿ
+C
+java:S1604%"(Make this anonymous inner class a lambda(××‹ñùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ì›½ùÿÿÿÿ

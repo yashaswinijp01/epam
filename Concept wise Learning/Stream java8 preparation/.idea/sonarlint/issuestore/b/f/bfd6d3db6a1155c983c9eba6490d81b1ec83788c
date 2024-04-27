@@ -1,0 +1,19 @@
+
+S
+java:S1854)"8Remove this useless assignment to local variable "list".(ÕğÎ™şÿÿÿÿ
+[
+java:S1854"@Remove this useless assignment to local variable "integerArray".(àÌæ€şÿÿÿÿ
+L
+java:S1481"1Remove this unused "integerArray" local variable.(àÌæ€şÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(´‚úC
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÚ•‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(é€¹Ñ
+M	java:S106#"9Replace this use of System.out or System.err by a logger.(âùÏ=
+D
+java:S1481)")Remove this unused "list" local variable.(ÕğÎ™şÿÿÿÿ
+E
+java:S11972"*Move the array designators [] to the type.(‡‚£µıÿÿÿÿ
+A
+java:S14815"&Remove this unused "s" local variable.(—®¿”úÿÿÿÿ
+M	java:S1066"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ì›½ùÿÿÿÿ

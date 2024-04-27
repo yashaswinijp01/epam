@@ -1,0 +1,22 @@
+
+V
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(’„ÉÂ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷ğåŸ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»÷¸ùûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×ÛğÒÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Êˆ”
+N	java:S106"9Replace this use of System.out or System.err by a logger.(îÁßÓ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷ïûé
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢”Îµùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áÒºÃ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öŸû’ÿÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ú¡÷œùÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(æ«âÌüÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ıÚ“ö
+M	java:S106%"9Replace this use of System.out or System.err by a logger.(°Ôè3
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(µ€¸»
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(»Å¿û
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(õ”¤Á
+N	java:S106/"9Replace this use of System.out or System.err by a logger.( Üøñ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ĞÍ¹
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ì›½ùÿÿÿÿ

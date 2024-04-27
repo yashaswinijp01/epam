@@ -1,0 +1,12 @@
+
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8•µÿ›é0
+P
+java:S1854	":Remove this useless assignment to local variable "result".(Éø‰î
+A
+java:S1481	"+Remove this unused "result" local variable.(Éø‰î
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ô°¡½8™µÿ›é0
+[
+java:S1155*">Use isEmpty() to check whether the collection is empty or not.(ËÁü8 µÿ›é0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ì›½ùÿÿÿÿ

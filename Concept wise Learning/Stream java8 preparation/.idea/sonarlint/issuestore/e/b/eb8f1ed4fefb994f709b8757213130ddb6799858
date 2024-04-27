@@ -1,0 +1,23 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®Ÿ‡Ëûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ùÃ”
+N	java:S106"9Replace this use of System.out or System.err by a logger.(É„†ú
+Q	java:S125"<This block of commented-out lines of code should be removed.(âñÔ§
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ğ³æÂûÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Šó
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ùÃ”
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(½‘£¬ùÿÿÿÿ
+N
+java:S38787"8Remove this array creation and simply pass the elements.(±åÊ…
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(’‘´Áúÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ÎŒä•
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(“†ªŞıÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(üØ‰Ú
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(ş›‹
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ş›‹
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(ƒÖí™
+Q	java:S125F"<This block of commented-out lines of code should be removed.(Ä‘´ø
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(êÄ”Âşÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(¡¤ûò
+S	java:S106T"9Replace this use of System.out or System.err by a logger.( ŠæĞıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ì›½ùÿÿÿÿ

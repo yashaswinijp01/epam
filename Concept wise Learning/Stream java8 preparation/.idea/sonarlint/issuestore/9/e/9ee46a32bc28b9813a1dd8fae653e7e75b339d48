@@ -1,0 +1,19 @@
+
+o
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(¦˜ĞŸ8°Ô‚“ñ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(œ´ï¡8µÔ‚“ñ0
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ÄÉÖ8·Ô‚“ñ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÉÖ8ºÔ‚“ñ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Î÷´¸úÿÿÿÿ8»Ô‚“ñ0
+W
+java:S6213":Rename this variable to not match a restricted identifier.(½ª8½Ô‚“ñ0
+q
+java:S4276"TRefactor this code to use the more specialised Functional Interface 'DoubleSupplier'(½ª8¾Ô‚“ñ0
+V
+java:S1612"9Replace this lambda with method reference 'Math::random'.(½ª8¾Ô‚“ñ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÙŸÿ8¿Ô‚“ñ0
+v
+java:S4276"YRefactor this code to use the more specialised Functional Interface 'IntFunction<String>'(Ã óû8ÂÔ‚“ñ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÃ´Æ8ÄÔ‚“ñ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ì›½ùÿÿÿÿ

@@ -1,0 +1,11 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ÂÜ«èúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ý²¤²øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ø¶Óõ
+P	java:S125"<This block of commented-out lines of code should be removed.(ÃÝ¬
+]	java:S125#"<This block of commented-out lines of code should be removed.(Éé»ùÿÿÿÿÿ8™Éš¡ñ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ì›½ùÿÿÿÿ
+M
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(ø¶Óõ

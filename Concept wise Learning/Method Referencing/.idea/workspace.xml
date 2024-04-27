@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4254799e-274f-40ea-bee7-0a1e08ce3a3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JPATask/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPATasks/src/main/java/com/epam/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPATasks/src/main/java/com/epam/jdbc/CreateTableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPATasks/src/main/java/com/epam/jdbc/JPAExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPATasks/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoggerTask/src/main/java/com/epam/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordManagementTool/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TddTask/src/main/java/com/epam/tdd/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TddTask/src/main/java/com/epam/tdd/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TddTask/src/main/java/com/epam/tdd/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TddTask/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TddTask/src/test/java/com/epam/tdd/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotationTask/.gitignore.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotationTask/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotationTask/src/main/java/com/epam/annotationTask/AnnotationApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotationTask/src/main/java/com/epam/annotationTask/AnnotationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotationTask/src/main/java/com/epam/annotationTask/DemoAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcTask/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcTask/src/main/java/com/epam/jdbcTask2/JDBCTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaDemo/src/main/java/com/epam/entity/CreateStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaDemo/src/main/java/com/epam/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaDemo/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbcTask/src/main/java/com/epam/jdbcTask1/JDBCTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbcTask/src/main/java/com/epam/jdbcTask1/JDBCTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbcTask/src/main/java/com/epam/jdbcTask2/UpdateToTableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbcTask/src/main/java/com/epam/jdbcTask2/UpdateToTableExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1wV15OAxKCC4rgErauGBoUQcUWs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Method_Referencing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Method_Referencing" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4254799e-274f-40ea-bee7-0a1e08ce3a3a" name="Default Changelist" comment="" />
+      <created>1628528760697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628528760697</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ò’Ùğøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ€¶ı
+_
+java:S1612"DReplace this lambda with method reference 'Employee::getDepartment'.(«Œ€îøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•·ûõûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûõÄ¶ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ê”³“şÿÿÿÿ
+_
+java:S1612"DReplace this lambda with method reference 'Employee::getDepartment'.(Ê”³“şÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ØäÄY
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(¾Î—ş
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(†·§ÿÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ùæ“ñøÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(«Æ’Çûÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(Òğ¢ˆûÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(‘Àõ¹üÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(úÃÙıÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(¿¡ÿŸ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ü¥Èòøÿÿÿÿ
+V	java:S125I"<This block of commented-out lines of code should be removed.(ƒÈÎÉşÿÿÿÿ

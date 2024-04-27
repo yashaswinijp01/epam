@@ -1,0 +1,21 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(† òİ
+E
+java:S3740"/Provide the parametrized type for this generic.(† òİ
+@
+java:S1197
+"*Move the array designators [] to the type.(ûŠŞ­
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ùöß´
+Q	java:S125"<This block of commented-out lines of code should be removed.(æÿ£ç
+B
+java:S1125"'Remove the unnecessary boolean literal.(¶ÏÂ²úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ùöß´
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(«şÄĞ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(·çÏÎ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+m
+java:S1192"WDefine a constant instead of duplicating this literal "Duplicate element is :" 3 times.(Ùöß´
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¹®°Ç
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ì›½ùÿÿÿÿ

@@ -1,0 +1,14 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(ŠÏ¯Ñûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(©©™ö
+V	java:S125"<This block of commented-out lines of code should be removed.(Û°¬’ýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Š’¼òüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.( ‰ïíùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÞ³ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÙý¯þÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ì›½ùÿÿÿÿ
+M
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(©©™ö
+R
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(ÍÙý¯þÿÿÿÿ
