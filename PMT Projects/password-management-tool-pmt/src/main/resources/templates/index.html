@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <title>Login - pmt</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+          crossorigin="anonymous" />
+</head>
+<body>
+<div class="container-fluid text-center">
+    <div>
+        <h1>Welcome to Password Management Tool</h1>
+    </div>
+
+    <div class="border border-secondary p-3 rounded">
+            <p><h4><a th:href="@{/accounts/new}">Add Account</a></h4></p>
+            <p><h4><a th:href="@{/listaccounts}">List Accounts</a></h4></p>
+            <p><h4><a th:href="@{/groups/new}">Add Group</a></h4></p>
+            <p><h4><a th:href="@{/listgroups}">List Groups</a></h4></p>
+            <p><h4><a th:href="@{/user/logout}">Logout</a></h4></p>
+    </div>
+
+</div>
+
+</body>
+</html>
+

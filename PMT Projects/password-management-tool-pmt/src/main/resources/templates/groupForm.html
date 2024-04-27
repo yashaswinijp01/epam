@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>GroupForm</title>
+    <link rel="stylesheet" type="text/css" th:href="@{/webjars/bootstrap/css/bootstrap.min.css}">
+</head>
+<body>
+<div class="container text-center">
+    <div th:if="${groupDto.id==null}"><h1>Create New Group</h1></div>
+    <div th:unless="${groupDto.id==null}"><h1>Edit Group</h1></div>
+    <form th:action="@{/groups/save}" th:object="${groupDto}" method="post" style="max-width: 600px;margin: 0 auto">
+        <input type="hidden" th:field="*{id}" th:value="${groupDto.id}"/>
+        <div class="form-group row">
+            <label class="col-form-label col-sm-4">Group Name:</label>
+
+            <div class="col-sm-8">
+                <input type="text" th:field="*{groupName}" class="form-control" required/>
+                <p class="alert alert-danger" th:if="${#fields.hasErrors('groupName')}" th:errors="*{groupName}">
+            </div>
+        </div>
+        <div class="text-center p-3">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+
+    </form>
+</div>
+</body>
+</html>

@@ -1,0 +1,23 @@
+.vcenter {
+
+    position: relative;
+    top: 10vh;
+    width: 30rem;
+}
+
+.emp{
+	width: 40rem;
+}
+
+.has-error {
+    font-size: small;
+    color: red
+
+}
+.field-icon {
+    float: right;
+    margin-left: -25px;
+    margin-top: -25px;
+    position: relative;
+    z-index: 2;
+  }
